@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deneme
 
 ## Alt bilgi
@@ -9,3 +10,6 @@ fja faj fafj
 af a
 
 [lorem.ipsum] (http://google.com)
+=======
+# Deneme-Git
+>>>>>>> 4ea53f1d3c33d49969b08c4f20452dece3917ef9
